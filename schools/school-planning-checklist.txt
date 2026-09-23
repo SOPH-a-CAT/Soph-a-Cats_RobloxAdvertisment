@@ -1,0 +1,40 @@
+BUILD DAY — FAMILY & SCHOOL PLANNING CHECKLIST
+Event: October 1, 2026 | All day | Online
+This is an internal planning aid, not registration or a confirmed event timetable.
+
+Family / school: __________________________
+Supervising adult / school lead: ____________________________
+Child / student group: __________________
+
+LEARNING FIT
+[ ] Agree a manageable project and intended learning goals.
+[ ] Plan to collect a design sketch, saved project, and short reflection.
+[ ] Adapt the challenge and support to students' needs.
+
+SCHOOL-DAY STRUCTURE (suggested, not the official agenda)
+[ ] Introduction and design planning
+[ ] Tool introduction and first building block
+[ ] Lunch, movement, and usual school breaks
+[ ] Testing, feedback, and revision
+[ ] Save projects and reflect
+Local start/end times: ____________________
+
+SUPERVISION AND TECHNOLOGY
+[ ] Choose a supervising parent or staff member and clarify responsibilities.
+[ ] Review safeguarding, privacy, communication, sharing, and consent policies.
+[ ] Check Windows/Mac devices, installation permissions, accounts, and network access.
+[ ] Review accessibility needs and alternative participation arrangements.
+[ ] Agree where student projects will be saved; public publishing is not required.
+
+CONFIRM BEFORE COMMITTING STUDENTS
+[ ] Organizer identity and official school contact / registration route
+[ ] Time zone, precise sessions, and school participation window
+[ ] Eligible ages, cost, capacity, and any account requirements
+[ ] Organizer teaching/support provision and supervision responsibilities
+[ ] Data, communication, and project-sharing arrangements
+
+Official Roblox Studio setup reference:
+https://create.roblox.com/docs/studio/setup
+
+The official event signup/contact route has not been supplied on this website.
+Do not treat this checklist as a booking or reservation.
